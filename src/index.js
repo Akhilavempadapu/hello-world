@@ -4,6 +4,7 @@ import './index.css';
 // import App from './App';
 import Home from './home';
 import Text from './txt';
+import Dummytxt from './dummy txt';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -11,6 +12,7 @@ root.render(
   <React.StrictMode>
     <Home/>
     <Text/>
+    <Dummytxt/>
     {/* <App /> */}
   </React.StrictMode>
 );

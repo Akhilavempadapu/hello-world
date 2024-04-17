@@ -2,7 +2,7 @@ function Text()
 {
 return(
     <div>
-        <p>good afternoon</p>
+        <p>good nyt...........</p>
     </div>
 )
 }
