@@ -1,7 +1,7 @@
 function Dummytxt(){
     return(
         <div>
-            <p>scary dreamsssss</p>
+            <p>...............</p>
         </div>
     )
 }
